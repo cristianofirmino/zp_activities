@@ -1,5 +1,5 @@
-public class Cbmxcm {
+public class Cndfqn {
     public static void main() {
-        System.out.println("gtpjg");
+        System.out.println("plyyy");
     }
 }
