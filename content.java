@@ -1,5 +1,5 @@
-public class Cndfqn {
+public class Cmjshv {
     public static void main() {
-        System.out.println("plyyy");
+        System.out.println("pihov");
     }
 }
