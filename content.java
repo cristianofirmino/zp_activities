@@ -1,5 +1,5 @@
-public class Cofuwl {
+public class Cjiwwi {
     public static void main() {
-        System.out.println("diqtk");
+        System.out.println("fiqyd");
     }
 }
