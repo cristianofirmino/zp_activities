@@ -1,5 +1,5 @@
-public class Cnupyw {
+public class Cpyasr {
     public static void main() {
-        System.out.println("hhoeo");
+        System.out.println("mqobb");
     }
 }
