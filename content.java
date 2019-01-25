@@ -1,5 +1,5 @@
-public class Cpyasr {
+public class Cywlli {
     public static void main() {
-        System.out.println("mqobb");
+        System.out.println("gmiov");
     }
 }
