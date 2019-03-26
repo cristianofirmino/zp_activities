@@ -6,3 +6,4 @@ SELECT * from dvxar;
 SELECT * from vjksx;
 SELECT * from uflbo;
 SELECT * from ciyod;
+SELECT * from niiwx;
