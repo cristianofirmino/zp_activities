@@ -1,2 +1,2 @@
 print("qwhtm")
-print("lesqu")
+print("ygrle")
