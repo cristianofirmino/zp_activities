@@ -1,2 +1,2 @@
 print("qwhtm")
-print("ommua")
+print("wgxsk")
