@@ -1,2 +1,4 @@
 print("qwhtm")
-print("rcetn")
+print("enwtt")
+print("gaqil")
+print("isbcn")
